@@ -8,7 +8,7 @@ function App() {
   return (
     <> 
 
-      <main className='bg-[#2B2B2B] h-screen'>
+      <main className='bg-[#2B2B2B]'>
 
         <HomePage />
         
