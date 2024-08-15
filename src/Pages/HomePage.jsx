@@ -38,6 +38,9 @@ function HomePage() {
                     {/* Left section */}
                     <div className='w-full  flex flex-col'>
 
+
+                        {/* Here must go the image */}
+
                     </div>
 
                 </div>
